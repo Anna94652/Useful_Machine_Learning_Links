@@ -6,4 +6,4 @@ An accumulation of fun, interesting, and informative links to help you understan
 
 |**Link**|**Description**|
 |-----------|------------|
-|https://horace.io/brrr_intro.html|TESTING|
+|https://horace.io/brrr_intro.html|A fun approach to speeding up a deep learning model.|
