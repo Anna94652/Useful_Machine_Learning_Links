@@ -30,5 +30,9 @@ An accumulation of fun, interesting, and informative links to help you understan
 |https://eecs189.org/|Intro to ML Course at UC Berkeley|
 |https://eecs16a.org/|Foundations of Signals, Dynamical Systems, and Information Processing, UC Berkeley Course|
 |https://www.datacamp.com/blog/curse-of-dimensionality-machine-learning|The curse of dimensionality in ML|
+|https://www.youtube.com/watch?v=kY14KfZQ1TI&list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1|Deep Learning with PyTorch Tutorial Playlist|
+|https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=1|ML StatQuest|
+|https://eecs189.org/|UC Berkeley Intro to ML Course Website|
+|https://cs231n.github.io/|Stanford Deep Learning for Computer Vision Course Website|
 
 
