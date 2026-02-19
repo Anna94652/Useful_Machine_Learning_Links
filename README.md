@@ -35,5 +35,6 @@ An accumulation of fun, interesting, and informative links to help you understan
 |https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf|The Probabilistic Method Book|
 |https://eecs189.org/|UC Berkeley Intro to ML Course Website|
 |https://cs231n.github.io/|Stanford Deep Learning for Computer Vision Course Website|
+|https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html|ConvNet MNIST Demo|
 
 
